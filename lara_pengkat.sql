@@ -59,7 +59,7 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (5, '2014_10_12_100000_create_password_resets_table', 1),
 (6, '2019_08_19_000000_create_failed_jobs_table', 1),
 (7, '2021_01_07_085135_add_roles_field_to_users_table', 2),
-(8, '2021_01_08_010522_create_pengaduan_table', 3),
+(8, '2021_01_08_010522_create_an_table', 3),
 (9, '2021_01_08_060634_create_pengaduan_table', 4),
 (10, '2021_01_08_060634_create_pengaduans_table', 5),
 (11, '2021_01_08_060634_create_pengaduan_mas_table', 6),

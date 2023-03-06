@@ -77,7 +77,7 @@
       <!--Right Col-->
       <div class="w-full md:w-3/5 text-center">
         <img class="object-fill mx-36 transform transition hover:scale-110 duration-300 ease-in-out"
-          src="{{ asset('img/hero.svg')}}" />
+          src="{{ asset('img/toko.svg')}}" />
       </div>
     </div>
   </div>
@@ -158,7 +158,7 @@
   <!-- Footer -->
   <footer class="text-center font-medium bg-blue-200 py-5">
     © {{ now()->year }} PENGKAT | By
-    <a href="https://www.instagram.com/with.jee/" class="text-blue-500" target="_blank">jee</a>
+    <a href="https://www.instagram.com/_cndr_0/" class="text-blue-500" target="_blank">candra</a>
   </footer>
   @include('sweetalert::alert')
 </body>
